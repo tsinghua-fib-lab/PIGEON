@@ -2,7 +2,7 @@
 PIGEON: An Open-Set Living Need Prediction System with Large Language Models
 
 # 📰 News
-- 2025.01 Our paper, "Open-Set Living Need Prediction with Large Language Models," has been accepted by ACL 2025 Findings!
+- 2025.04 Our paper, "Open-Set Living Need Prediction with Large Language Models," has been accepted by ACL 2025 Findings!
 
 # 🌍 Introduction
 Living needs are the needs people generate in their daily lives for survival and well-being. On life service platforms like Meituan, user purchases are driven by living needs, making accurate living need predictions crucial for personalized service recommendations. Traditional approaches treat this prediction as a closed-set classification problem, severely limiting their ability to capture the diversity and complexity of living needs. 
